@@ -49,7 +49,7 @@ Using the test set to evaluate the final model's performance and ensure its gene
 To run the project locally, follow these steps:
 - Clone the repository:
 ```sh
-git clone https://github.com/yourusername/titanic-survival-prediction.git
+git clone https://github.com/dorsasam/titanic-survival-prediction.git
 cd titanic-survival-prediction
 ```
 - Create a virtual environment and activate it:
