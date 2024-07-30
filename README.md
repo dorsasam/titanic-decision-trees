@@ -44,3 +44,23 @@ Altering the maximum depths from 2 to 10 and evaluating the model's performance 
 Finding the best depth where the model performs well on both the training and development sets.
 - Evaluating the Model's Performance:
 Using the test set to evaluate the final model's performance and ensure its generalisability.
+
+## Installation
+To run the project locally, follow these steps:
+- Clone the repository:
+```sh
+git clone https://github.com/yourusername/titanic-survival-prediction.git
+cd titanic-survival-prediction
+```
+- Create a virtual environment and activate it:
+```sh
+python -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+```
+- Install the required dependencies:
+```sh
+pip install -r requirements.txt
+```
+- Run the Jupyter notebooks or scripts as needed.
+
+
